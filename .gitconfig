@@ -1,0 +1,9 @@
+[user]
+  email = naokin1976@gmail.com
+
+[color]
+  ui = true
+
+[core]
+  autocrlf = false
+  editor = vim
